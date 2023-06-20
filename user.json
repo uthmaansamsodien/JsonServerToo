@@ -1,0 +1,39 @@
+{
+    "players":[
+        {
+            "id": 1,
+            "firstName": "Cristiano",
+            "Surname": "Ronaldo",
+            "Age": 38
+
+        },  
+        {
+            "id": 2,
+            "firstName": "David",
+            "Surname": "de Gea",
+            "Age": 31
+
+        },  
+        {
+            "id": 3,
+            "firstName": "Lionel",
+            "Surname": "Pessi",
+            "Age": 35
+
+        },  
+        {
+            "id": 4,
+            "firstName": "Paul",
+            "Surname": "Pogba",
+            "Age": 33
+
+        },  
+        {
+            "id": 5,
+            "firstName": "Lisandro",
+            "Surname": "Martinez",
+            "Age": 26
+
+        }
+    ]
+}
